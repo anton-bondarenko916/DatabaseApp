@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">data base</string>
+    <string name="student_name">Student name</string>
+    <string name="student_age">Age: 18</string>
+    <string name="student_weight">Weight: 67 kg</string>
+    <string name="student_height">Height: 180 sm</string>
+    <string name="remove">Remove</string>
+</resources>
